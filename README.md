@@ -1,7 +1,7 @@
 # X-ile
-## VBA Code
-## fills data into specified number of buckets of appx. equal volume
-## should not be used for small datasets or datasets with extreme outliers
+### VBA Code
+### fills data into specified number of buckets of appx. equal volume
+### should not be used for small datasets or datasets with extreme outliers
 
 Function xile(Decile_range As Range, Value As Double, Num_of_buckets As Integer)
     
